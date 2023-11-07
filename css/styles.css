@@ -58,6 +58,9 @@ h1{
         height: 600px;
         margin: 10px 2%;
     }
+    .dishes:nth-of-type(3){
+        width:96%;
+    }
 }
 @media(max-width:776px){
     .dishes{
